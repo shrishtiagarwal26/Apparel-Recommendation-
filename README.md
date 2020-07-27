@@ -13,4 +13,4 @@ Recommending similar products (apparel) to the given product (apparel) in any e-
   4. product_type_name (type of the apperal, ex: SHIRT/TSHIRT )
   5. medium_image_url ( url of the image )
   6. title (title of the product.)
-7. formatted_price (price of the product)
+  7. formatted_price (price of the product)
